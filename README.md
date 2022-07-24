@@ -1,4 +1,4 @@
-## Olá, eu sou Junio dos Santos Rodrigues!
+## Olá, eu sou Junio dos Santos Rodrigues. Vamos melhorar o mundo?
 <div align="center">
   <a href="https://github.com/RodJunio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodJunio&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
