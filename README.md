@@ -8,8 +8,9 @@
   <img align="center" alt="Junio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Junio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Junio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">  
-  <img align="center" alt="Junio-CSS" height="30" width="40">  ![icons8-microsoft-sql-server-48](https://user-images.githubusercontent.com/90984407/210288240-54d4d4a5-2512-4adb-8ec4-a90ca7167377.png) </img>
+  <img align="center" alt="Junio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
+  <img align="center" alt="Junio-CSS" height="30" width="40" src="https://img.icons8.com/color/512/microsoft-sql-server.png"> 
+ 
 
   
   
