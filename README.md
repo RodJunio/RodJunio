@@ -1,4 +1,4 @@
-## Olá, eu sou Junio dos Santos Rodrigues. Vamos melhorar o mundo?
+## Olá!. Vamos melhorar o mundo juntos?
 
 ![Purple Blue Colorful Gaming LinkedIn Banner (4)](https://github.com/RodJunio/RodJunio/assets/90984407/222591e4-7488-45ec-8598-51b8b1135c9c)
 
